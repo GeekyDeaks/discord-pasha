@@ -1,0 +1,45 @@
+{
+  "name": "discord-pasha",
+  "version": "1.0.0",
+  "description": "Discord Utility Bot",
+  "main": "pasha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekyDeaks/discord-pasha.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": [
+    "sdeaks@gmail.com",
+    "Lastminuteguy"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekyDeaks/discord-pasha/issues"
+  },
+  "homepage": "https://github.com/GeekyDeaks/discord-pasha#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "co": "^4.6.0",
+    "discord.js": "^11.0.0",
+    "fast-levenshtein": "^2.0.3",
+    "jszip": "^3.1.1",
+    "koa": "^1.2.1",
+    "koa-body": "^1.5.0",
+    "koa-hbs": "^0.9.0",
+    "koa-router": "^5.4.0",
+    "mkdirp": "^0.5.1",
+    "moment-timezone": "^0.5.5",
+    "mongodb": "^2.2.6",
+    "promise-streams": "^1.0.1",
+    "promisify-node": "^0.4.0",
+    "request": "^2.74.0",
+    "thunkify": "^2.1.2",
+    "winston": "^2.2.0"
+  }
+}
